@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../family bank"
+		},
+		{
+			"name": "js-dom",
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
